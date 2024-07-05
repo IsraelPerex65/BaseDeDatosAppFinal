@@ -1,7 +1,7 @@
 # Base de datos Para aplicaciones
 
 
-!['Imagen Base de Datos'](./img/banner.jpg)
+!['Imagen Base de Datos'](https://www.epitech-it.es/wp-content/uploads/2022/07/programas-bases-de-datos.jpg)
 
 -----------
 
